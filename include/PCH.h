@@ -13,7 +13,7 @@
 
 namespace stl
 {
-    using namespace SKSE::stl;
+   using namespace SKSE::stl;
 
    template <class T, std::size_t index, class U>
    void write_vfunc()
